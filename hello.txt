@@ -1,2 +1,3 @@
 Hello Git from VS Code!
 This is my first commit.
+This is a new feature!
